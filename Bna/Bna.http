@@ -1,0 +1,6 @@
+@Bna_HostAddress = http://localhost:5187
+
+GET {{Bna_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
